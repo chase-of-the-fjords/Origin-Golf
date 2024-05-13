@@ -441,7 +441,7 @@ function Footer() {
           Origin Golf
         </h3>
         <p className="mb-2 text-lg">
-          (760) 639-9930 |{" "}
+          (760) 599-4499 |{" "}
           <a href="mailto:kevin@origingolf.com" className="underline">
             kevin@origingolf.com
           </a>

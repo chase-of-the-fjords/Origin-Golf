@@ -441,7 +441,9 @@ function Footer() {
           Origin Golf
         </h3>
         <p className="mb-2 text-lg">
-          (760) 599-4499 |{" "}
+          (760) 599-4499
+          <span className="max-[399px]:hidden"> | </span>
+          <br className="min-[400px]:hidden" />
           <a href="mailto:kevin@origingolf.com" className="underline">
             kevin@origingolf.com
           </a>

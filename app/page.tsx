@@ -91,7 +91,7 @@ function Hero() {
   return (
     <div
       id="home"
-      className="flex h-screen w-full bg-black bg-[url('/resources/backgrounds/suite-2.jpg')] bg-cover bg-fixed"
+      className="flex h-screen w-full bg-black bg-[url('/resources/backgrounds/suite-2.jpg')] bg-cover bg-fixed bg-center"
     >
       <motion.div
         initial={{ opacity: 0, y: -25 }}
